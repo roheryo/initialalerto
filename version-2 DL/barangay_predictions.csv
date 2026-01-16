@@ -1,0 +1,16 @@
+municipality,barangay,predicted_cases,percentage,risk_level
+LAAK,Binasbas,7,12.3,LOW
+LAAK,Aguinaldo,6,11.5,LOW
+LAAK,Anitap,6,11.1,LOW
+MAWAB,Poblacion,7,12.4,LOW
+MAWAB,Tuboran,6,11.3,LOW
+MAWAB,Malinawon,6,11.0,LOW
+MACO,Elizalde,6,12.2,LOW
+MACO,Bucana,6,12.0,LOW
+MACO,Binuangan,6,11.4,LOW
+MABINI,Cadunan,7,13.3,LOW
+MABINI,Libodon,7,13.0,LOW
+MABINI,Golden Valley,6,11.3,LOW
+PANTUKAN,Kingking (Pob.),7,14.4,LOW
+PANTUKAN,Bongabong,7,12.8,LOW
+PANTUKAN,Bongbong,6,12.0,LOW

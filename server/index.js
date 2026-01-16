@@ -7,6 +7,7 @@ const authRoutes = require('./routes/auth');
 const patientRoutes = require('./routes/patients');
 const dashboardRoutes = require('./routes/dashboard');
 const fileRoutes = require('./routes/files');
+const predictionRoutes = require('./routes/predictions');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -24,6 +25,7 @@ app.use('/api/auth', authRoutes);
 app.use('/api/patients', patientRoutes);
 app.use('/api/dashboard', dashboardRoutes);
 app.use('/api/files', fileRoutes);
+app.use('/api/predictions', predictionRoutes);
 
 // Initialize database
 const db = require('./database/db');
